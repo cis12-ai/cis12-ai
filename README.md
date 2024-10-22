@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cis12-ai
-- 👀 I’m interested in getting internships 
+- 👀 I’m interested in getting internships and traveling
 - 🌱 I’m currently learning how to code in java and python
 - 💞️ I’m looking to collaborate on many projects
 - 📫 You can reach me in Linkedln: @Camila Sepulveda
